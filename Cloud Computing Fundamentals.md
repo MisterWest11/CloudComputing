@@ -43,3 +43,22 @@ Services available across the network from commonly available clients. Client de
 **Dynamic management**: The CSP automatically manages and adjusts resource allocation to optimize usage.
 
 The CSP acts like a giant pool of computing power, storage and network capabilities. Users can tap into this pool and get resources they need, when they need them, without worrying about the underlying infrastructure.
+
+**rapid elasticity**
+
+**Traditional IT:** Businesses buy physical servers (capital expenditure), which are fixed in terms of cost and capabilities. This can be wasteful if resource needs fluctuate.
+
+**Demand Fluctuation:** Many businesses experience varying resource needs throughout the year. For example, a retail store might need more computing power during peak holiday seasons.
+
+**Cloud's Advantage:** Cloud computing allows for dynamic allocation of resources. You can easily provision (add) or release (remove) resources like storage and processing power based on real-time needs. This can be done automatically or manually.
+
+**Efficiency:** Rapid elasticity avoids the situation of having underutilized servers most of the year. You only pay for what you use, leading to significant cost savings on hardware purchase and maintenance.
+
+**Measured Services**
+
+**Resource Metering:** Cloud service providers (CSPs) track how much of their resources (storage, compute power, etc.) users consume.
+
+Benefits of Metering:
+  * **Efficient Allocation**: By understanding usage patterns, CSPs can allocate resources more effectively, optimizing their infrastructure.
+    
+  * **Accurate Billing**: Metering allows CSPs to bill users precisely for the resources they actually used, leading to a fair pay-as-you-go model.
