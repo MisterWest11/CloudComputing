@@ -6,6 +6,20 @@
 
 Cloud computing has changed how businesses operate. It offers features like on-demand resources, easy scaling and flexible costs. This has empowered startups to compete with established players and helped existing businesses improve and transform.
 
+It is a cloud system comprised of 3 types of services: SaaS, PaaS & IaaS.
+
+**Software-as-a-Service (SaaS)**
+
+represents online software applications that manages service for you.
+
+**Platform-as-a-Service (PaaS)**
+
+CSP's manage everything for user but the users manage the Applications and Data of the Software.
+
+**Infrastructure-as-a-Service (IaaS)**
+
+
+
 It was initially about saving money, now businesses see the cloud as a tool for major changes. Companies use a mix of public and private cloud services depending on their needs. Letting them keep sensitive applications in-house while using innovative cloud-based software and services.
 
 The definition of cloud computing may be confusing. There are 5 characteristics have been agreed upon for a basic understanding of what cloud computing means.
@@ -20,4 +34,12 @@ Services available across the network from commonly available clients. Client de
 
 **Resource Pooling**
 
-The Cloud Service Provider pools resources in a multitenant model and 
+**Multitenant model**: Multiple users share the same pool of resources managed by the cloud services provider (CSP).
+
+**On-demand allocation**:Resources like network, storage and computing power are allocated to users as needed, not pre-signed. 
+
+**Location transparency**: User don't know  or care where the physical resources are located.
+
+**Dynamic management**: The CSP automatically manages and adjusts resource allocation to optimize usage.
+
+The CSP acts like a giant pool of computing power, storage and network capabilities. Users can tap into this pool and get resources they need, when they need them, without worrying about the underlying infrastructure.
