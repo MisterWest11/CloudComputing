@@ -70,9 +70,19 @@ We have several Cloud Service Providers like Amazon Web Services (AWS), Microsof
 
 Each provider has its strength but all offer core services like:
 
-**Infrastructure-as-a-Software (IaaS)**: Rent computing resources like virtual approved machines, storage, and networking.
+**Infrastructure-as-a-Software (IaaS)**: gives a variety of computing infrastructure such as storage, servers, networking hardware. It also maintains and supports these infrastructures.
 
-**Platform-as-a-Service (PaaS)**: Develop, deploy, and manage, applications on a cloud platform.
+*Benefits*
+
+* Resources are highly scalable.
+
+* Cost depends on the consumption.
+
+* Single piece of hardware serves many users.
+
+* Client has control over architecture.
+
+**Platform-as-a-Service (PaaS)**: Develop, deploy, and manage, applications on a cloud platform. it is a cloud base where development, testing and organizing the different applications takes place. Implementing PaaS simplifies the process of software development.
 
 **Software-as-a-Service (SaaS)**: Use pre-built cloud applications like email, CRM, or productivity tools.
 
