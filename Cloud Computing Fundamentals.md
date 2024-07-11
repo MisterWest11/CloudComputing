@@ -154,6 +154,54 @@ The type of cloud deployment determines how resources are allocated and who mana
 
 *Public cloud*: Resources are owned and managed by a CSP and shared among multiple users. Users don't know the exact location of their data. (e.g., Amazon Web Services (AWS), Microsoft Azure)
 
+Public cloud is a model where computing resources (hardware, storage, applications etc.) are owned and operated by a third-party Cloud Service Provider (CSP) and offered to customers on-demand via a subscription model.
+
+Customers don't know the exact location of their data or resources within the CSP's data center. The CSP dynamically manages these resources for optimal use.
+Public cloud offers scalability, a variety of services (compute, storage, security etc.), and on-demand availability.
+
+Some CSPs offer dedicated instances within their data centers for customers with specific governance, compliance, or security needs. However, dedicated instances come at a higher cost than the multi-tenant model where resources are shared among multiple customers.
+
+Public cloud is the most common type of cloud service, with companies like Amazon and Microsoft being major providers.
+
 *Private cloud*: Resources are dedicated to a single organization and offer more control and security. (e.g., A company's internal cloud infrastructure)
 
+A private cloud refers to a dedicated computing environment that mimics the characteristics of a public cloud but exists solely for the use of a single organization.
+
+This environment encompasses hardware, networking, storage, services, applications, and access interfaces.
+
+The organization, not a third-party provider, retains complete control over the cloud's deployment and management. However, they can leverage external expertise for setup and maintenance, particularly for large enterprises.
+
+A key feature of a private cloud is its isolation. It sits behind a firewall, creating a highly controlled environment that's not accessible to the public internet. This isolation prioritizes governance, security, and compliance with regulations specific to the organization's industry or data sensitivity.
+
 *Hybrid cloud*: Combines elements of public and private clouds for flexibility and specific needs.
+
+Hybrid Cloud:
+
+Combines a private cloud with public cloud services to create a unified computing environment.
+Ideal for situations where some data or applications need stricter control (private cloud) while others benefit from public cloud's scalability or cost-effectiveness.
+
+Users shouldn't differentiate between on-premise and cloud services – it all functions as a single system.
+
+Multicloud:
+
+Involves using two or more public clouds within an organization.
+May arise organically as different teams choose different cloud providers.
+Requires careful management for visibility, control, and cost optimization across multiple cloud services.
+
+Key Points:
+
+Not all public + private cloud combinations are hybrid/multicloud.
+
+Hybrid/multicloud refers to using these services together to create value, not just using them independently.
+
+Examples of NOT hybrid/multicloud:
+A few developers using a public cloud for a separate project.
+Using a SaaS application without data exchange with the private cloud.
+Different departments using separate public clouds independently.
+Examples of hybrid/multicloud:
+Using a public development platform that interacts with private cloud or data center applications.
+Moving data between private/data center resources and multiple SaaS applications.
+Designing business processes as services that connect across different cloud environments seamlessly.
+Using a SaaS analytics platform that gathers data from various cloud sources.
+Migrating workloads between public clouds based on cost or performance needs.
+
