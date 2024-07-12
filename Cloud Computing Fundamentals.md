@@ -204,4 +204,3 @@ Moving data between private/data center resources and multiple SaaS applications
 Designing business processes as services that connect across different cloud environments seamlessly.
 Using a SaaS analytics platform that gathers data from various cloud sources.
 Migrating workloads between public clouds based on cost or performance needs.
-
