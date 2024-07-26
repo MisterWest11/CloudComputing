@@ -85,3 +85,34 @@ Compliance:
 *APIs (Application Programming Interfaces)*: Enables programmatic access to cloud resources and services, allowing for integration with custom tools and workflows.
 
 *PowerShell*: A powerful scripting language specifically designed for automating tasks and configurations within the Microsoft Azure cloud platform.
+
+
+# Describe Cloud Services Types
+
+**Describe Infrastructure as a Service**
+
+It is the most flexible category of cloud service. It provides you wth maximum amount of control for your cloud resources.
+
+The cloud is responsible for maintaining hardware, network connectivity(to the internet), and physical security. You are responsible for everything: 
+
+  * operating system installation
+
+  * configuration and maintainance
+
+  * network configuration
+
+  * database and storage configurations
+
+Basically, you are renting the hardware in a cloud datacenter.
+
+![image](https://github.com/user-attachments/assets/d0ebbb14-d789-4557-9456-7e123577805a)
+
+**Describe Software as a Service**
+
+It is the most complete cloud service model from a product perspective. You are renting a fully developed application.
+
+SaaS model places most responsibility with cloud provider and the least responsibility with the user. The user is responsible for the data that they enter in the system, the devices that allow you to connect to the system and users have access.
+
+![image](https://github.com/user-attachments/assets/f3ea2e14-71ac-4954-a72c-ba65e8a9abb8)
+
+
