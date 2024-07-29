@@ -45,3 +45,18 @@ Azure costs can vary based on several factors:
 
 Overall, Azure costs are influenced by a combination of factors, including usage patterns, resource choices, geographic location, and subscription type. 
 Effective cost management requires careful planning and monitoring.
+
+# Compare the Pricing and Total Cost of Ownership calculators
+
+These are calculators help you understand potential Azure expenses. Both calculators are accessible from the internet and they allow you to build out a configuration. However they both serve different purposes.
+
+**Pricing Calculator**
+
+This calculator is a tool that helps you calculate an estimate cost of using Azure services. You can input different resources like virtual machine, storage, and networking to get an approximate price. You can even account for different storage options like storage type, access tier and redundancy.
+
+**TCO calculator**
+
+This calculator is designed to help you compare the costs for running an on-premises infrastructure compared to an Azure Cloud infrastructure. With the TCO calculator, you enter your current infrastructure configuration, including servers, databases, storage and outbound network traffic. The TCO compares the anticipated costs for your current environment with an Azure environment supporting the same infrastructure requirements.
+
+By inputting details about your current setup, such as servers, databases, and network traffic, the calculator estimates the total cost of ownership (TCO) for both options. It considers factors like hardware, software, power, labor, and Azure service pricing to provide a side-by-side comparison.
+This tool assists in making informed decisions about whether migrating to Azure is financially beneficial for your organization.
