@@ -60,3 +60,13 @@ This calculator is designed to help you compare the costs for running an on-prem
 
 By inputting details about your current setup, such as servers, databases, and network traffic, the calculator estimates the total cost of ownership (TCO) for both options. It considers factors like hardware, software, power, labor, and Azure service pricing to provide a side-by-side comparison.
 This tool assists in making informed decisions about whether migrating to Azure is financially beneficial for your organization.
+
+# What is Cost Management
+
+**Azure Cost Management** is a tool desinged to help users understand, control and optimize their Azure cloud spending.
+
+*Key features and benefits*
+
+ * *Costs Analysis*: provides detailed breakdowns of Azure costs by various dimensions to identify spending trends and anomalies.
+
+ * *Budgeting*: Enables users to set spending limits and receive alerts when budgets are approaching or exceeding limits.
